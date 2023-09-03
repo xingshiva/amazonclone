@@ -1,4 +1,5 @@
 # amazonclone
 This is my first  project
 <br>
-Author shivakumar
+Author Shivakumar done by html and css
+
